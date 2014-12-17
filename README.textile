@@ -1,0 +1,5 @@
+Life Expectancy Index scores, from the UN.
+
+Scores are normalised between 0 and 1, where 1 is the country with that year's highest life expectancy.
+
+hdrstats.undp.org/en/indicators/72206.html
